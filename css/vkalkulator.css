@@ -1,0 +1,21 @@
+#kalkis {height: 180px; width: 500px; 
+         border-top: 1px solid #f8f8f8; border-left: 1px solid #f8f8f8; border-bottom: 1px solid #d2d2d2; border-right: 1px solid #d2d2d2;
+        -webkit-box-shadow: 8px 8px 24px 5px #4d4d4d; box-shadow: 8px 8px 24px 5px #4d4d4d;
+        -webkit-border-radius: 10px; border-radius: 10px;
+        -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
+        background-color: #cecece;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(#cecece), to(#d7d7d7));
+        background-image: -webkit-linear-gradient(top, #cecece, #d7d7d7);
+        background-image: -moz-linear-gradient(top, #cecece, #d7d7d7);
+        background-image: -o-linear-gradient(top, #cecece, #d7d7d7);
+        background-image: linear-gradient(to bottom, #cecece, #d7d7d7);
+        margin: 20px 0 50px 0
+        }
+
+#valutaHeader {font-size: 20px; text-align: center; font-weight: bold; font-family: "goudy-bookletter-1911-1","goudy-bookletter-1911-2","Baskerville","Georgia",serif; letter-spacing: 0.2em; padding: 4px 0 20px 0; color: #6e6e6e; text-shadow: 1px 1px #f5f5f5, -1px -1px #3e3e3e;}
+
+#kalkis input, #kalkis select {outline: none; font-size: 20px;  padding: 2px;
+    -webkit-border-radius: 5px; border-radius: 5px;}
+
+#valuta_fra, #valuta_til {text-align: right; width: 100px; margin: 0 7px  10px 50px; border: 1px solid #000;}
+#loader_kalkis {display: none; left: 160px; position: relative;}
