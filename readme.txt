@@ -15,16 +15,19 @@ Simple currency calculator, converts money amounts between the most used currenc
 
 * 88 of the most common currencies
 
+* Demo at http://xn--ln-yia.priv.no/valutakalkulator/
+
 == Installation ==
 
 1. Download the zip file and extract the contents
 2. Upload the folder `Wordpress-Currency-Converter` to your WP plugin folder `/wp-content/plugins/` directory
 3. Go to Plugins > Plugins, and activate the plugin
-4. Add the shortcode [valutakalkulator] within any WordPress post or page where you need the calculator to be displayed. You can add the code <?php echo shortcode_valutakalkulator() ?>  in the template if you prefer that.
+4. Add the shortcode [valutakalkulator] within any WordPress post or page where you need the calculator to be displayed. 
+You can add the code <?php echo shortcode_valutakalkulator() ?>  in the template if you prefer that.
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 * Released 17/09/2012 
 * First release provides one simple calculator
 
