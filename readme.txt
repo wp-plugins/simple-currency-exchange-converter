@@ -25,6 +25,10 @@ Simple currency calculator, converts money amounts between the most used currenc
 4. Add the shortcode [valutakalkulator] within any WordPress post or page where you need the calculator to be displayed. 
 You can add the code <?php echo shortcode_valutakalkulator() ?>  in the template if you prefer that.
 
+== Screenshots ==
+
+1. This is how it looks.
+
 == Changelog ==
 
 = 1.1 =
