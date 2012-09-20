@@ -23,7 +23,7 @@ Simple currency calculator, converts money amounts between the most used currenc
 2. Upload the folder `Wordpress-Currency-Converter` to your WP plugin folder `/wp-content/plugins/` directory
 3. Go to Plugins > Plugins, and activate the plugin
 4. Add the shortcode [valutakalkulator] within any WordPress post or page where you need the calculator to be displayed. 
-You can add the code <?php echo shortcode_valutakalkulator() ?>  in the template if you prefer that.
+You can add the code echo shortcode_valutakalkulator() in the template if you prefer that.
 
 == Screenshots ==
 
