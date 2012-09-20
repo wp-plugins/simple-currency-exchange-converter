@@ -40,5 +40,5 @@ You can add the code echo shortcode_valutakalkulator() in the template if you pr
 = Can the country names be translated? =
 Yes, just edit the file js/vkalkulator.js.
 
-= More questions? Go here and write a comment please:=
-http://lån.priv.no/wordpress-currency-calculator-valutakalkulator-plugin/
+= More questions? Go here and write a comment please =
+http://xn--ln-yia.priv.no/wordpress-currency-calculator-valutakalkulator-plugin/
