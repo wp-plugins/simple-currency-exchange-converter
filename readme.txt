@@ -7,7 +7,7 @@ Tested up to: 3.4
 Stable tag: trunk
 License: GPLv2 or later (http://www.gnu.org/licenses/gpl-2.0.html) 
 
-Currency calculator widget, converts money amounts between different currencies.
+Currency calculator plugin, converts money amounts between different currencies.
 
 == Description ==
 
@@ -39,3 +39,6 @@ You can add the code echo shortcode_valutakalkulator() in the template if you pr
 
 = Can the country names be translated? =
 Yes, just edit the file js/vkalkulator.js.
+
+= More questions? Go here and write a comment please:=
+http://lån.priv.no/wordpress-currency-calculator-valutakalkulator-plugin/
